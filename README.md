@@ -1,4 +1,4 @@
-# 🚀 RUST TOR PROXY
+# RUST TOR PROXY
 
 > **MI primer proyecto en Rust**: un proxy SOCKS5 local que enruta el tráfico a través de Tor de manera sencilla y segura.
 
@@ -26,7 +26,7 @@ Está diseñado pensando en la simplicidad y el rendimiento: aprovecha el poder 
 
 ---
 
-## ✨ Características
+## 🔥 Características
 
 - 🚀 **Asíncrono**: gracias a Tokio, maneja múltiples conexiones concurrentes sin bloqueo.
 - 🔒 **Privacidad**: todo el tráfico pasa por la red Tor.
